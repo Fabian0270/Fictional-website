@@ -1,0 +1,17 @@
+.header{
+    align-content: center;
+}
+
+body {
+    background-image: url("alora-griffiths-E3wehabi_B4-unsplash (1).jpg");
+    background-size:cover
+  }
+
+
+.header-nav{
+    text-align: center;
+}
+
+a{
+    color: aliceblue;
+}
