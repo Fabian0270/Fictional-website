@@ -12,6 +12,15 @@ body {
     text-align: center;
 }
 
+.header-nav a:hover {
+    text-decoration: underline;
+    color: rgba(110, 110, 238, 0.749);
+    cursor: pointer;
+  }
+
 a{
     color: aliceblue;
+    font-size: 18px;
+    margin-left: 15px;
+    font-weight: 500;
 }
