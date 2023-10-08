@@ -1,0 +1,27 @@
+nav{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0.04254201680672265) 19%, rgba(0,0,0,1) 50%);
+    text-align: center;
+    padding: 3rem;
+    position:absolute;
+    width: 93vw;
+  }
+  
+  nav a{
+    font-size: 25px;
+    padding-right: 2.5rem;
+  }
+  
+  nav a:hover {
+      text-decoration: underline;
+      color: rgba(110, 110, 238, 0.749);
+      cursor: pointer;
+    }
+  
+  a{
+      color: aliceblue;
+      font-size: 18px;
+      margin-left: 15px;
+      font-weight: 500;
+      text-decoration: none;
+  }

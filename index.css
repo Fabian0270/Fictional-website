@@ -8,33 +8,6 @@ body {
     min-height: 100vh;
   }
 
-nav{
-  background: rgb(0,0,0);
-  background: linear-gradient(0deg, rgba(0,0,0,0.2498249299719888) 19%, rgba(0,0,0,1) 100%);
-  text-align: center;
-  padding: 3rem;
-  position:absolute;
-  width: 93vw;
-}
-
-nav a{
-  font-size: 25px;
-  padding-right: 2.5rem;
-}
-
-nav a:hover {
-    text-decoration: underline;
-    color: rgba(110, 110, 238, 0.749);
-    cursor: pointer;
-  }
-
-a{
-    color: aliceblue;
-    font-size: 18px;
-    margin-left: 15px;
-    font-weight: 500;
-}
-
 .top-image{
   background-image: url("alora-griffiths-E3wehabi_B4-unsplash (1).jpg");
   background-position: center;
