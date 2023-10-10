@@ -15,3 +15,11 @@ body {
   background-size: cover;
   min-height: 150vh;
 }
+
+.articles{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 77px;
+  column-gap: 128px;
+  margin-top: 50px;
+}
