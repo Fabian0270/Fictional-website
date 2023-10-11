@@ -15,6 +15,9 @@ body {
   background-size: cover;
   min-height: 150vh;
 }
+main{
+  background-color: rgb(30, 29, 29);
+}
 
 .articles{
   display: grid;
@@ -22,4 +25,19 @@ body {
   row-gap: 77px;
   column-gap: 128px;
   margin-top: 50px;
+  padding: 150px;
+}
+
+.article-img{
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.articles-container{
+  background-color: rgb(188, 185, 185);
+  padding: 50px;
+}
+
+article{
+  
 }
